@@ -6,9 +6,9 @@
         <webPath>c:/wamp/www/listentothis/www/</webPath>
         <database dsn="mysql:dbname=kevinxn_listentothis;host=localhost" user="root" pass="" />
     </settings>
-	<handlers>
-		<add name="RouteHandler" pattern="*" />
-	</handlers>
+    <handlers>
+        <add name="RouteHandler" pattern="*" />
+    </handlers>
     <routes>
         <route name="test" controller="IndexController" action="test" pattern="/listentothis/test" />
         <route name="update" controller="IndexController" action="update" pattern="/listentothis/update" />
