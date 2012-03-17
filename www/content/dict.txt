@@ -1,0 +1,972 @@
+atmospheric
+rock
+proto-industrial
+indie
+art rock
+acoustic
+icelandic
+alternative
+nintendocore
+8-bit
+8-bit techno
+chiptune
+moroccan
+drum & bass
+live
+folk pop
+cover
+nu metal
+welsh
+breaks
+songwriter
+mashup
+dance
+nu jazz
+pop mashup
+western
+uk punk
+experimental pop
+2-step
+british garage
+aboriginal folk
+aboriginal rock
+acadian
+acappella
+acid folk
+acid house
+acid jazz
+acid rock
+acid techno
+acoustic blues
+acoustic chicago blues
+acoustic louisiana blues
+acoustic memphis blues
+acoustic new orleans blues
+acoustic texas blues
+adult alternative
+adult alternative pop-rock
+adult contemporary
+african folk
+african jazz
+afro-beat
+afro-brazilian
+afro-colombian
+afro-cuban
+afro-cuban jazz
+afro peruvian
+afro-pop
+album rock
+al-jil
+alternative ccm
+alternative country
+alternative country-rock
+alternative dance
+alternative folk
+alternative metal
+alternative pop-rock
+alternative rap
+alternative singer-songwriter
+ambient
+ambient breakbeat
+ambient dub
+ambient house
+ambient pop
+ambient techno
+americana
+american jewish pop
+american popular song
+american punk
+american trad rock
+american underground
+am pop
+anarchist punk
+andalus classical
+andean folk
+anime music
+anti-folk
+apala
+appalachian folk
+arena rock
+argentine folk
+armenian
+armenian folk
+asian folk
+asian pop
+atonal
+audiobooks
+aussie rock
+austropop
+avant-garde
+avant-garde jazz
+avant-prog
+bachata
+bakersfield sound
+ballads
+ballroom dance
+banda
+bar band
+barbershop quartet
+baroque
+baroque pop
+bass music
+bava
+beach
+beat poetry
+beguine
+beguine moderne
+beguine vide
+belair
+bel canto opera
+belly dancing
+bhangra
+big band
+big band latino
+big beat
+bikutsi
+black gospel
+blaxploitation
+bluebeat
+blue-eyed soul
+bluegrass
+bluegrass-gospel
+blue humor
+blues
+blues gospel
+blues revival
+blues-rock
+bolero
+bollywood
+bombara
+boogaloo
+boogie rock
+boogie-woogie
+bop
+bossa nova
+brass band
+brazilian folk
+brazilian jazz
+brazilian pop
+brill building pop
+british blues
+british dance bands
+british folk
+british folk-rock
+british invasion
+british metal
+british psychedelia
+british punk
+british rap
+british trad rock
+britpop
+broken beat
+brown-eyed soul
+bubblegum
+bulgarian folk
+c-86
+cabaret
+cadence
+cajun
+calypso
+canterbury scene
+caribbean folk
+carnatic
+carnival
+carols
+cartoon music
+cast recordings
+ccm
+celebrity
+celtic
+celtic folk
+celtic fusion
+celtic gospel
+celtic new age
+celtic pop
+celtic rock
+ceremonial
+cha-cha
+chamber jazz
+chamber music
+chamber pop
+changui
+chant
+chants
+chanukah
+charanga
+chassidic
+chicago blues
+chicago soul
+children's
+children's folk
+children's stories
+chilean folk
+chimurenga
+chinese classical
+chinese folk
+chinese pop
+chinese pop-rock
+choral
+choro
+chouval bwa
+christian comedy
+christian metal
+christian punk
+christian rap
+christian rock
+christmas
+circus music
+classical
+classical crossover
+classical guitar
+classical pop
+classic female blues
+classic jazz
+close harmony
+club-dance
+cocktail
+college rock
+comedy
+comedy rap
+comedy rock
+compas
+computer music
+conceptual art
+conjunto
+contemporary bluegrass
+contemporary blues
+contemporary celtic
+contemporary country
+contemporary flamenco
+contemporary folk
+contemporary gospel
+contemporary instrumental
+contemporary jazz
+contemporary native american
+contemporary r&b
+contemporary reggae
+contemporary singer-songwriter
+continental jazz
+cool
+corrido
+country
+country blues
+country boogie
+country comedy
+country-folk
+country gospel
+country-pop
+country-rock
+country-soul
+cowboy
+cowpunk
+creative orchestra
+creole
+crossover jazz
+cuatro
+cuban jazz
+cuban pop
+cumbia
+dance bands
+dancehall
+dance-pop
+dance-rock
+danzon
+dark ambient
+death metal-black metal
+deep funk
+deep funk revival
+deep soul
+delta blues
+demonstration-test disc
+detroit blues
+detroit rock
+detroit techno
+dhrupad
+dimotiko
+dirty blues
+dirty rap
+dirty south
+disco
+dixieland
+dixieland revival
+dj
+djabdong
+documentary
+doom metal
+doo wop
+downbeat
+downtempo
+drama
+dream pop
+drill'n'bass
+drinking songs
+dub
+dub poetry
+dutch pop
+early american blues
+early british pop-rock
+early creative
+early music
+east coast blues
+east coast rap
+easter
+eastern europe
+eastern european pop
+easy listening
+easy pop
+educational
+egyptian-sudanese music
+electric blues
+electric chicago blues
+electric country blues
+electric delta blues
+electric harmonica blues
+electric memphis blues
+electric texas blues
+electro
+electro-acoustic
+electro-industrial
+electro-jazz
+electronic
+electronica
+electro-techno
+emo
+enka
+environmental
+erotica
+ethiopian pop
+ethnic
+ethnic comedy
+ethnic fusion
+euro-dance
+european folk
+euro-pop
+euro-rock
+exercise
+exotica
+experimental
+experimental ambient
+experimental big band
+experimental dub
+experimental electro
+experimental jungle
+experimental rock
+experimental techno
+fado
+fairy tales
+fantasy
+field recordings
+fight songs
+film music
+finger-picked guitar
+finnish folk
+flamenco
+folk
+folk-blues
+folk-jazz
+folklore
+folk-pop
+folk revival
+folk-rock
+folksongs
+foreign language rap
+foreign language rock
+forro
+frat rock
+freakbeat
+free folk
+free funk
+free improvisation
+free jazz
+freestyle
+french chanson
+french folk
+french pop
+french rock
+fuji
+funk
+funk metal
+funky breaks
+fusion
+gabba
+gamelan
+game sounds
+gangsta rap
+garage-house
+garage punk
+garage rap-grime
+garage rock
+garage rock revival
+gay
+gay comedy
+gay country
+gay gospel
+georgian choir
+german liedermacher
+german schlager
+german volksmusik
+g-funk
+giddha
+girl group
+glam rock
+glitch
+glitter
+goa trance
+go-go
+golden age
+gospel
+gospel choir
+goth metal
+goth rock
+greek folk
+gregorian chant
+grindcore
+grunge
+grupero
+guaguancó
+guitar virtuoso
+gwo ka
+gypsy
+hair metal
+halloween
+happy hardcore
+hard bop
+hardcore punk
+hardcore rap
+hardcore techno
+hard rock
+harmonica blues
+harmony vocal group
+hawaiian pop
+healing
+heartland rock
+heavy metal
+hebrew
+highlife
+hi-nrg
+hip-hop
+holiday
+hong kong pop
+honky tonk
+hot jazz
+hot rod
+hot rod revival
+house
+hungarian folk
+hymns
+idm
+illbient
+impressionist
+improvisation
+indian classical
+indian folk
+indian pop
+indie electronic
+indie pop
+indie rock
+indigenous
+indipop
+industrial
+industrial dance
+industrial drum'n'bass
+industrial metal
+inspirational
+instructional
+instrumental country
+instrumental gospel
+instrumental pop
+instrumental rock
+international folk
+international pop
+interview
+inuit
+iran-classical
+irish folk
+italian folk
+italian pop
+jaipongan
+jam bands
+jangle pop
+japanese orchestral
+japanese pop
+japanese rock
+jazz
+jazz blues
+jazz-funk
+jazz-house
+jazz-pop
+jazz-rap
+jazz-rock
+jesus rock
+jewish folk
+jewish music
+jibaro
+jit
+jive
+joik
+jug band
+juju
+juke joint blues
+jump blues
+jungle-drum'n'bass
+junkanoo
+kabuki
+karaoke
+kayokyoku
+kecak
+khmer dance
+klezmer
+kora
+korean pop
+korean rock
+krautrock
+laika
+lambada
+l.a. punk
+latin
+latin ccm
+latin comedy
+latin dance
+latin folk
+latin freestyle
+latin gospel
+latin jazz
+latin pop
+latin rap
+latin rock
+latin soul
+left-field hip-hop
+left-field house
+lo-fi
+louisiana blues
+lounge
+lovers rock
+lullabies
+macapat poetry
+madchester
+mainstream jazz
+makossa
+mambo
+mantras
+marabi
+march
+marches
+mariachi
+math rock
+mbalax
+mbaqanga
+m-base
+mbira
+mbube
+mbuti choral
+medieval
+meditation
+memphis blues
+memphis soul
+mento
+merengue
+merenhouse
+merseybeat
+mexican folk
+microhouse
+microsound
+microtonal
+middle eastern pop
+midwest rap
+military
+mini jazz
+minimalism
+minimal techno
+minstrel
+miscellaneous
+mixed media
+mod
+modal music
+modern acoustic blues
+modern big band
+modern composition
+modern creative
+modern delta blues
+modern electric blues
+modern electric chicago blues
+modern electric texas blues
+modern free
+modern son
+mod revival
+mood music
+moravian folk
+morna
+morning radio
+motown
+movie themes
+mpb
+mugam
+musette
+musical comedy
+musicals
+musical theater
+music hall
+musique actuelle
+musique concrète
+mystical minimalism
+nashville sound-countrypolitan
+nationalist
+nature
+neo-bop
+neo-classical
+neo-classical metal
+neo-electro
+neo-glam
+neo-prog
+neo-psychedelia
+neo-romantic
+neo-soul
+neo-traditional
+neo-traditional folk
+neo-traditionalist country
+new acoustic
+new age
+new age tone poems
+newbeat
+new jack swing
+new orleans blues
+new orleans brass bands
+new orleans jazz
+new orleans r&b
+new romantic
+new traditionalist
+new wave
+new wave of british heavy metal
+new wave-post-punk revival
+new york blues
+new york punk
+new york salsa
+new zealand rock
+nissiotiko
+noise
+noise pop
+noise-rock
+norteño
+northern soul
+norwegian folk
+nostalgia
+novelty
+novelty ragtime
+no wave
+nu breaks
+nueva cancion
+nueva trova
+nursery rhymes
+nyahbinghi
+obscuro
+observational humor
+oi!
+okinawan pop
+okinawan traditional
+old-school rap
+old-timey
+omutibo
+onda grupera
+opera
+operettas
+oratories
+orchestral
+orchestral jazz
+orchestral pop
+original score
+outlaw country
+pachanga
+paisley underground
+pan-global
+party rap
+party soca
+peruvian folk
+philly soul
+piano blues
+piedmont blues
+pipe bands
+plena
+poetry
+political comedy
+political folk
+political rap
+political reggae
+polka
+pop
+pop idol
+pop-metal
+pop-rap
+pop-rock
+pop-soul
+pop underground
+portuguese music
+post-bop
+post-disco
+post-grunge
+post-hardcore
+post-minimalism
+post-punk
+post-rock-experimental
+post-romantic
+power metal
+power pop
+praise & worship
+prank calls
+prewar blues
+prewar country blues
+prewar gospel blues
+process-generated
+progressive alternative
+progressive big band
+progressive bluegrass
+progressive country
+progressive electronic
+progressive folk
+progressive house
+progressive jazz
+progressive metal
+progressive trance
+prog-rock-art rock
+proto-punk
+psychedelic
+psychedelic pop
+psychedelic soul
+psychobilly
+pub rock
+punk
+punk blues
+punk metal
+punk-pop
+punk revival
+pygmy
+qawwali
+quadrille
+quechua
+queercore
+quiet storm
+radio plays
+radio shows
+radio works
+raga
+ragga
+ragtime
+rai
+rakugo
+ranchera
+rap
+rap-metal
+rap-rock
+rapso
+rave
+r&b
+read-along stories
+reggae
+reggae gospel
+reggae-pop
+reggaeton
+relaxation
+rembetika
+renaissance
+retro-rock
+retro-soul
+retro swing
+rhumba
+riot grrrl
+rock
+rockabilly
+rockabilly revival
+rock en español
+rock & roll
+rocksteady
+rodeo
+romantic
+roots reggae
+roots rock
+russian folk
+sacred choral
+sacred vocal
+sadcore
+salsa
+samba
+satire
+scandinavian folk
+scandinavian metal
+scandinavian pop
+scottish folk
+screamo
+scriptures
+sea shanties
+séga
+self-help
+shaabi
+sharki
+shibuya-kei
+shinto
+shock jock
+shoegaze
+show tunes
+sing-along
+singer-songwriter
+ska
+ska-punk
+ska revival
+skatepunk
+sketch comedy
+skiffle
+slack-key guitar
+slide guitar blues
+slowcore
+sludge metal
+smooth jazz
+smooth reggae
+smooth soul
+soca
+social commentary
+society dance band
+soft rock
+software-sounds
+solo instrumental
+son
+sonero
+song parody
+songster
+sophisti-pop
+soukous
+soul
+soul-blues
+soul-jazz
+sound art
+sound collage
+sound effects
+sound sculpture
+soundtrack
+soundtracks
+south african folk
+south african pop
+southeast asian music
+southern gospel
+southern rap
+southern rock
+southern soul
+space
+space age pop
+space rock
+spanish folk
+speeches
+speed metal
+spiritual
+spirituals
+spoken word
+sports anthems
+spouge
+spy music
+square dance
+standards
+standup comedy
+steel band
+st. louis blues
+stoner metal
+straight-edge
+stride
+string bands
+structured improvisation
+sunshine pop
+surf
+surf revival
+swamp blues
+swamp pop
+swedish folk
+swedish pop-rock
+sweet bands
+swing
+switzerland folk
+symphonic black metal
+synth pop
+taarab
+taiwanese pop
+tango
+tape music
+tech-house
+techno
+techno bass
+techno-dub
+techno-tribal
+teen idol
+teen pop
+tejano
+television music
+texas blues
+tex-mex
+thai pop
+thanksgiving
+third stream
+third wave ska revival
+thrash
+throat singing
+timba
+tin pan alley pop
+torch songs
+township jazz
+traditional
+traditional bluegrass
+traditional cajun
+traditional celtic
+traditional chinese
+traditional country
+traditional european folk
+traditional folk
+traditional gospel
+traditional irish folk
+traditional japanese
+traditional korean
+traditional middle eastern folk
+traditional native american
+traditional pop
+traditional scottish folk
+trad jazz
+trance
+travel
+tribal-house
+tribute albums
+trip-hop
+tropical
+tropicalia
+trot
+trova
+truck driving country
+turkish folk
+turkish music
+turntablism
+tv soundtracks
+twee pop
+underground rap
+uptown soul
+urban
+urban blues
+urban cowboy
+urban folk
+vallenato
+vaudeville
+vaudeville blues
+vaudou
+video
+video game music
+vocal
+vocalese
+vocal jazz
+vocal pop
+waltz
+wedding music
+west coast blues
+west coast jazz
+west coast rap
+western swing
+western swing revival
+women's
+work songs
+world
+worldbeat
+world fusion
+yodeling
+zouk
+zydeco

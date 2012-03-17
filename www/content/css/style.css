@@ -1,0 +1,78 @@
+body
+{
+    font-family: Arial;
+    font-size: 12px;
+    background: url(../images/flowers.jpg);
+}
+
+h1.songTitle
+{
+    margin: 0; padding: 0;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 20px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+h1.songTitle span
+{
+    padding: 1px;
+}
+
+img { border: none; }
+
+.btnPrevious span, .btnPause span, .btnPlay span, 
+.btnNext span, .btnClose span, .btnVolume span, 
+.btnComments span, .btnHelp span, .btnReddit span
+{ display: none; }
+.btnPrevious, .btnPause, .btnPlay, .btnNext, .btnClose, .btnVolume,
+.btnComments, .btnHelp, .btnReddit
+{
+    background-position: top left;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 64px; height: 64px;
+    outline: none;
+}
+.btnClose 
+{
+    width: 16px; height: 16px;
+    background-image: url(../images/close.png);
+}
+.btnComments
+{
+    width: 21px; height: 18px;
+    background-image: url(../images/comments.png);
+}
+.btnReddit
+{
+    width: 20px; height: 18px;
+    background-image: url(../images/reddit.png);
+    margin-right: 5px;
+}
+
+.btnPrevious { background-image: url(../images/previous.png); }
+.btnNext { background-image: url(../images/next.png); }
+.btnPlay { background-image: url(../images/play.png); }
+.btnPause { background-image: url(../images/pause.png); }
+
+.btnVolume.vol-high { background-image: url(../images/vol-high.png); }
+.btnVolume.vol-med { background-image: url(../images/vol-med.png); }
+.btnVolume.vol-low { background-image: url(../images/vol-low.png); }
+.btnVolume.vol-mute { background-image: url(../images/vol-mute.png); }
+
+.drpGenre 
+{
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.videoContainer { margin-left: 25px; }
+
+.progressbar { cursor: pointer; }
+
+.hide { display: none; }
+.invisible { visibility: hidden; }
+

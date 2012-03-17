@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<config>
+    <settings>
+        <siteUrl>http://kevinx.local/listentothis/</siteUrl>
+        <appPath>c:/wamp/www/listentothis/app/</appPath>
+        <webPath>c:/wamp/www/listentothis/www/</webPath>
+        <database dsn="mysql:dbname=kevinxn_listentothis;host=localhost" user="root" pass="" />
+    </settings>
+	<handlers>
+		<add name="RouteHandler" pattern="*" />
+	</handlers>
+    <routes>
+        <route name="test" controller="IndexController" action="test" pattern="/listentothis/test" />
+        <route name="update" controller="IndexController" action="update" pattern="/listentothis/update" />
+        <route name="catchall" controller="IndexController" action="index" pattern="/listentothis/" />
+    </routes>
+</config>

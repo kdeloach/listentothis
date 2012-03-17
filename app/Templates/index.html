@@ -1,0 +1,84 @@
+{% extends "master.html" %}
+
+{% block content %} 
+
+<table width="100%">
+<tr>
+<td valign="top">
+
+	<table cellspacing="10">
+	<tr>
+	<td>
+		<table cellspacing="0" cellpadding="0">
+		<tr>
+		<td><a href="{{prevUrl}}" class="btnPrevious"><span>Previous</span></a></td>
+		<td>
+			<a href="#pause" class="btnPause"><span>Pause</span></a>
+			<a href="#play" class="btnPlay hide"><span>Play</span></a>
+		</td>
+		<td><a href="{{nextUrl}}" class="btnNext"><span>Next</span></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width="200">
+		<div class="progressbar">
+		</div>
+	</td>
+	<td>
+		<a href="#volume" class="btnVolume vol-high"><span>Toggle Volume</span></a>
+	</td>
+	</tr>
+	</table>
+
+</td>
+<td align="right" valign="top">
+
+	<table>
+	<tr>
+	<td>
+		<a href="http://www.reddit.com/r/listentothis" target="_blank" class="btnReddit">
+			<span>Reddit</span>
+		</a>
+	</td>
+	<td>
+		<form method="get" action="">
+		<input type="hidden" name="seed" value="{{seed}}" />
+		<select class="drpGenre" name="genre" onchange="this.form.submit()">
+        {% for li in genreList %}
+            <option value="{{li.value}}"{% if li.selected %} selected="selected"{% endif %}>
+			    {{li.text}}
+			</option>
+        {% endfor %}
+		</select>
+		<input type="submit" value="apply" class="hide" />
+		</form>
+	</td>
+	</tr>
+	</table>
+
+</td>
+</tr>
+</table>
+
+<h1 class="songTitle"><span>{{songTitle}} 
+		<a href="{{currentSong.link}} target="newwindow" class="btnComments">
+			<span>Comments</span>
+		</a></span> - <a href="#hidevideo" class="btnHideVideo">toggle video</a>
+</h1>
+
+<div class="videoContainer invisibles">
+<div id="ytapiplayer">
+  You need Flash player 8+ and JavaScript enabled to view this video.
+</div>
+</div>
+<script type="text/javascript">
+  // <![CDATA[
+  initialVideo = '{{currentSong.youtubeID}}';
+  var params = { allowScriptAccess: "always", bgcolor: "#cccccc" };
+  var atts = { id: "myytplayer" };
+  swfobject.embedSWF("http://www.youtube.com/apiplayer?enablejsapi=1&playerapiid=ytplayer", 
+                     "ytapiplayer", "400", "300", "8", null, null, params, atts);
+  //]]>
+</script>
+
+{% endblock %} 
